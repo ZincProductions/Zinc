@@ -1,0 +1,14 @@
+Copyright ZINC productions 2026
+All rights reserved.
+
+Coded by Rtb194CodeTutorials (Roblox.com)
+
+You cannot Publish or sell this item on any Real-life marketing or Website selling.
+This is a fun little No CPU project ive been debugging for 6 months
+Images will come soon!
+
+Microchips used and connections
+
+TOP, LEFT PART OF CIRCIT: Is a 555 timer beside it is a Shift regisiter (hc595) Besides that is 2 Binary Counters
+MIDDLE, LEFT PART OF CIRCIT: Is a PIC16F877 (Yes i know its a cpu BUT its only emulating a ACSII to Binary incoder,Grouper) Besides that is 2 EEPROMS (AT28C256)
+BOTTOM, LEFT PART OF CIRCIT: Is 2 EEPROMS (AT28C256) besides that is a AY-3-8913 (Sound channel Chip SCC)
